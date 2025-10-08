@@ -31,7 +31,7 @@ REQUIRES = [
     "pydantic >= 2",
     "typing-extensions >= 4.7.1",
     "websockets >= 12.0.0",
-    "eth-account >= 0.12.1",
+    "eth-account >= 0.12.0",
     "requests >= 2.31.0",
 ]
 
