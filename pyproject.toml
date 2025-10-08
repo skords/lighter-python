@@ -77,3 +77,4 @@ disallow_any_generics = true
 #
 ### This one can be tricky to get passing if you use a lot of untyped libraries
 #warn_return_any = true
+
